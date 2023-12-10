@@ -1,0 +1,89 @@
+{
+  "instance": "bfe5f102-dc8a-41ee-ac9d-67ba1c24a41f",
+  "version": 1,
+  "deploymentMethod": "hardlink_activator",
+  "gameId": "valheim",
+  "deploymentTime": 1702183667178,
+  "stagingPath": "C:\\Users\\coleh\\AppData\\Roaming\\Vortex\\valheim\\mods",
+  "targetPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Valheim\\BepInEx",
+  "files": [
+    {
+      "relPath": "config\\com.traktool.all_skills_can_give_carry_weight.cfg",
+      "source": "All Skills Can Give Carry Weight v2.1.2-47-2-1-2-1679347326",
+      "target": "",
+      "time": 1702183083000
+    },
+    {
+      "relPath": "plugins\\Valheim.DisplayBepInExInfo.dll",
+      "source": "denikson-BepInExPack_Valheim-5.4.2202",
+      "target": "",
+      "time": 1698460036000
+    },
+    {
+      "relPath": "plugins\\ValheimPlus.dll",
+      "source": "0.9.9.11 ValheimPlus Vortex-4-0-9-9-11-1670441473",
+      "target": "",
+      "time": 1670440689000
+    },
+    {
+      "relPath": "plugins\\AnyPortal.dll",
+      "source": "AnyPortal-170-2-0-0-1657231399",
+      "target": "",
+      "time": 1657226872000
+    },
+    {
+      "relPath": "plugins\\BetterArcheryRecipes.json",
+      "source": "Better Archery-348-1-9-4-1697555513",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "plugins\\BetterArchery.dll",
+      "source": "Better Archery-348-1-9-4-1697555513",
+      "target": "",
+      "time": 1697554866000
+    },
+    {
+      "relPath": "plugins\\AllSkillsCanGiveCarryWeight.dll",
+      "source": "All Skills Can Give Carry Weight v2.1.2-47-2-1-2-1679347326",
+      "target": "",
+      "time": 1679345556000
+    },
+    {
+      "relPath": "plugins\\SFX\\exhale\\exhale_3.wav",
+      "source": "Better Archery-348-1-9-4-1697555513",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "plugins\\SFX\\inhale\\inhale_3.wav",
+      "source": "Better Archery-348-1-9-4-1697555513",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "plugins\\SFX\\inhale\\inhale_1.wav",
+      "source": "Better Archery-348-1-9-4-1697555513",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "plugins\\SFX\\exhale\\exhale_1.wav",
+      "source": "Better Archery-348-1-9-4-1697555513",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "plugins\\SFX\\exhale\\exhale_2.wav",
+      "source": "Better Archery-348-1-9-4-1697555513",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "plugins\\SFX\\inhale\\inhale_2.wav",
+      "source": "Better Archery-348-1-9-4-1697555513",
+      "target": "",
+      "time": 1651670006000
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "instance": "bfe5f102-dc8a-41ee-ac9d-67ba1c24a41f",
+  "version": 1,
+  "deploymentMethod": "hardlink_activator",
+  "gameId": "valheim",
+  "deploymentTime": 1702183667215,
+  "stagingPath": "C:\\Users\\coleh\\AppData\\Roaming\\Vortex\\valheim\\mods",
+  "targetPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Valheim\\BepInEx\\plugins",
+  "files": [
+    {
+      "relPath": "Jotunn\\Jotunn.dll",
+      "source": "Jotunn-1138-2-15-0-1700394676",
+      "target": "",
+      "time": 1700394531000
+    },
+    {
+      "relPath": "Compass\\mask.png",
+      "source": "Compass-851-1-3-0-1692795431",
+      "target": "",
+      "time": 1617336114000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.dll.mdb",
+      "source": "Jotunn-1138-2-15-0-1700394676",
+      "target": "",
+      "time": 1700394547000
+    },
+    {
+      "relPath": "Advize_PlantEverything.dll",
+      "source": "Plant Everything-1042-1-16-1-1700997708.1",
+      "target": "",
+      "time": 1700995998000
+    },
+    {
+      "relPath": "Compass\\Compass.xcf",
+      "source": "Compass-851-1-3-0-1692795431",
+      "target": "",
+      "time": 1617336304000
+    },
+    {
+      "relPath": "Compass\\center.png",
+      "source": "Compass-851-1-3-0-1692795431",
+      "target": "",
+      "time": 1621039386000
+    },
+    {
+      "relPath": "EquipmentAndQuickSlots.dll",
+      "source": "Equipment and Quick Slots-92-2-1-12-1699375926",
+      "target": "",
+      "time": 1699374581000
+    },
+    {
+      "relPath": "CHANGELOG.md",
+      "source": "Equipment and Quick Slots-92-2-1-12-1699375926",
+      "target": "",
+      "time": 1698725455000
+    },
+    {
+      "relPath": "Compass.dll",
+      "source": "Compass-851-1-3-0-1692795431",
+      "target": "",
+      "time": 1692802622000
+    },
+    {
+      "relPath": "InstantMonsterDrop.dll",
+      "source": "Instant Monster Loot Drop-164-0-5-0-1692748747",
+      "target": "",
+      "time": 1692755918000
+    },
+    {
+      "relPath": "FarmGrid.dll",
+      "source": "FarmGrid 0.5.0-449-0-5-0-1686742714",
+      "target": "",
+      "time": 1686742514000
+    },
+    {
+      "relPath": "TrashItems.dll",
+      "source": "Trash Items-441-1-2-7-1696853077",
+      "target": "",
+      "time": 1696874432000
+    },
+    {
+      "relPath": "HitboxFix.dll",
+      "source": "Slope Hit Fix MAIN-727-1-3-0-1617676620",
+      "target": "",
+      "time": 1617676360000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.pdb",
+      "source": "Jotunn-1138-2-15-0-1700394676",
+      "target": "",
+      "time": 1700394531000
+    },
+    {
+      "relPath": "Jotunn\\README.md",
+      "source": "Jotunn-1138-2-15-0-1700394676",
+      "target": "",
+      "time": 1695073762000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.xml",
+      "source": "Jotunn-1138-2-15-0-1700394676",
+      "target": "",
+      "time": 1700394531000
+    },
+    {
+      "relPath": "Compass\\compass.png",
+      "source": "Compass-851-1-3-0-1692795431",
+      "target": "",
+      "time": 1617339560000
+    },
+    {
+      "relPath": "Jotunn\\CHANGELOG.md",
+      "source": "Jotunn-1138-2-15-0-1700394676",
+      "target": "",
+      "time": 1700333939000
+    }
+  ]
+}
